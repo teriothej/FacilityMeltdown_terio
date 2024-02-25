@@ -2,8 +2,8 @@
 schemaVersion = "0.0.1"
 
 [package]
-namespace = "loaforc"
-name = "FacilityMeltdown"
+namespace = "teriothej"
+name = "FacilityMeltdown_Terio"
 versionNumber = "2.3.0"
 description = "Maybe taking the apparatus out isn't such a great idea..."
 websiteUrl = "https://github.com/teriothej/FacilityMeltdown_terio"
